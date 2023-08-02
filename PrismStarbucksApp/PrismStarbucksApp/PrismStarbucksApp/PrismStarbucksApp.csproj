@@ -157,29 +157,4 @@
 	  <BundleResource Include="Resources\Fonts\Raleway-Medium.ttf" />
 	  <BundleResource Include="Resources\Fonts\Raleway-Regular.ttf" />
 	</ItemGroup>
-	<ItemGroup>
-	  <MauiImage Remove="Resources\Images\add.png" />
-	  <MauiImage Remove="Resources\Images\wallet.png" />
-	  <MauiImage Remove="Resources\Images\tall.png" />
-	  <MauiImage Remove="Resources\Images\tea_frappuccino.png" />
-	  <MauiImage Remove="Resources\Images\dotnet_bot.svg" />
-	  <MauiImage Remove="Resources\Images\back_arrow.png" />
-	  <MauiImage Remove="Resources\Images\home.png" />
-	  <MauiImage Remove="Resources\Images\shadow_1.png" />
-	  <MauiImage Remove="Resources\Images\love_default.png" />
-	  <MauiImage Remove="Resources\Images\search.png" />
-	  <MauiImage Remove="Resources\Images\substract.png" />
-	  <MauiImage Remove="Resources\Images\love_filled.png" />
-	  <MauiImage Remove="Resources\Images\humberger.svg" />
-	  <MauiImage Remove="Resources\Images\logo.png" />
-	  <MauiImage Remove="Resources\Images\filter.png" />
-	  <MauiImage Remove="Resources\Images\humberger_menu.png" />
-	  <MauiImage Remove="Resources\Images\venti.png" />
-	  <MauiImage Remove="Resources\Images\star.png" />
-	  <MauiImage Remove="Resources\Images\grande.png" />
-	  <MauiImage Remove="Resources\Images\chocolate_frappuccino.png" />
-	  <MauiImage Remove="Resources\Images\fav.png" />
-	  <MauiImage Remove="Resources\Images\shop_bag.png" />
-	  <MauiImage Remove="Resources\Images\notification.png" />
-	</ItemGroup>
 </Project>
